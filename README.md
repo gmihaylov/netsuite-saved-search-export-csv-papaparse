@@ -11,7 +11,7 @@ Simple Scheduled script that export Saved Search results to CSV file using Papap
 ## Performance
 - Tested with 10 column Saved Search / 112626 lines
 - Processing time: 8 minutes
-- Output CSV Filesize: 7.3 MB
+- Output CSV Filesize: 7.3 MB 
 
 ## Screenshots
 ![App Screenshot](screenshots/screenshot1.png)
