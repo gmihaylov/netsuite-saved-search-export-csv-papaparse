@@ -6,7 +6,7 @@ define(['N/search', 'N/file', './lib/papaparse.min'],
 
     (search, file, papa) => {
 
-        const savedSearchId = 'customsearch_de_taf_ap_b6';
+        const savedSearchId = 'customsearch_XXXX';
         const csvFileName = 'SavedSearchExport.csv';
         const csvFolderId = 146875;
         const csvDelimiter = '\r\n'
